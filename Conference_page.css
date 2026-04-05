@@ -1,0 +1,52 @@
+.bg-container {
+    background-color: #ffffff;
+    background-size: cover;
+    text-align:center;
+    padding:20px;
+}
+
+.image {
+    width: 100vw;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    padding:10px;
+}
+.conference-details-title{
+    color:#183b56;
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight:bold;
+}
+.conference-details-description{
+    color:#5a7174;
+    font-family:"Roboto";
+    font-size:16px;
+}
+.conference-section {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.coference-status-count{
+    color:#183b56;
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight:bold;
+}
+.conference-status-label{
+    color:#5a7184;
+    font-family:"Roboto";
+    font-size:16px;
+}
