@@ -1,0 +1,73 @@
+.music-bg-container {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    background-size: cover;
+}
+.music-header-bg-container {
+    height: 40vh;
+    padding: 30px;
+}
+.music-heading {
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Bree Serif";
+}
+.music-description {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Bree Serif";
+}
+.night-island-card {
+    padding: 30px;
+}
+.night-island-bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 40vh;
+    background-size: cover;
+    margin-bottom: 5px;
+}
+.night-island-card-heading {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    font-size: 32px;
+}
+.button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+    width: 100px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 38px;
+}
+.music-details-bg-container {
+    background-color: #03174c;
+}
+.music-details-header-image {
+    width: 100vw;
+}
+.music-details-container {
+    padding: 20px;
+}
+.music-details-text {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+.related-music-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 18px;
+}
+.related-music-card {
+    margin-right: 10px;
+}
+.related-music-image {
+    width: 40vw;
+    margin-bottom: 3px;
+}
+.related-music-name {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
