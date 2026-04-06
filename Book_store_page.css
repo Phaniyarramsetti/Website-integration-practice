@@ -1,0 +1,94 @@
+.book-store-home-page {
+    background-color: #1b1b1b;
+    background-size: cover;
+    padding: 24px;
+}
+.home-page-heading {
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Bree Serif";
+}
+.popular-book-container {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+}
+.popular-book-image {
+    height: 180px;
+    width: 126px;
+}
+.popular-book-short-details-container {
+    padding: 16px;
+}
+.popular-book-heading {
+    color: #183b56;
+    font-size: 16px;
+    font-family: "Bree Serif";
+}
+.popular-book-text {
+    color: #06070d;
+    font-size: 12px;
+    font-family: "Bree Serif";
+}
+.popular-book-author {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 10px;
+}
+.button {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 12px;
+}
+.recommended-books-heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Bree Serif";
+    margin-top: 10px;
+}
+.recommended-book-container {
+    margin-bottom: 10px;
+}
+.recommended-book-image {
+    height: 125px;
+    width: 80px;
+}
+.recommended-book-short-details-container {
+    margin-left: 10px;
+}
+.recommended-book-name {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
+.recommended-book-description {
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+.book-details-page {
+    background-color: #1b1b1b;
+    padding: 24px;
+    text-align: center;
+}
+.book-details-page-image {
+    height: 294px;
+    width: 190px;
+    margin-bottom: 20px;
+}
+.book-name {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+.author {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+.book-description {
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    text-align: left;
+    font-size: 12px;
+    margin-top: 10px;
+}
