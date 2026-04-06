@@ -4,18 +4,15 @@
     text-align:center;
     padding:20px;
 }
-
 .image {
     width: 100vw;
 }
-
 .heading {
     color: #183b56;
     font-family: "Roboto";
     font-weight: bold;
     font-size: 32px;
 }
-
 .paragraph {
     color: #5a7184;
     font-family: "Roboto";
